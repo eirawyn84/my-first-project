@@ -1,0 +1,28 @@
+h1 {
+  width: 100%;
+  background: #fff;
+  top: 0;
+  padding: 20px, auto;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.card-text {
+  text-align: center;
+
+  font-family: "Poppins", sans-serif;
+}
+.card-title {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.card {
+  background-color: #e9ebee;
+}
+p {
+  text-align: center;
+  margin: 0;
+}
